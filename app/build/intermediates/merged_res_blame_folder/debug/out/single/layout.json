@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\certe\\Desktop\\santander-dev-week-bankline-android-main\\santander-dev-week-bankline-android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\certe\\Desktop\\santander-dev-week-bankline-android-main\\santander-dev-week-bankline-android-main\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\certe\\Desktop\\santander-dev-week-bankline-android-main\\santander-dev-week-bankline-android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bank_statement_item.xml",
+        "source": "C:\\Users\\certe\\Desktop\\santander-dev-week-bankline-android-main\\santander-dev-week-bankline-android-main\\app\\src\\main\\res\\layout\\bank_statement_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\certe\\Desktop\\santander-dev-week-bankline-android-main\\santander-dev-week-bankline-android-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bank_statement.xml",
+        "source": "C:\\Users\\certe\\Desktop\\santander-dev-week-bankline-android-main\\santander-dev-week-bankline-android-main\\app\\src\\main\\res\\layout\\activity_bank_statement.xml"
+    }
+]

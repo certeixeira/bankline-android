@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+color primary_100
+color primary_200
+color primary_600
+color primary_700
+color primary_900
+dimen margin_default
+dimen margin_half_default
+drawable ic_launcher_foreground
+drawable ic_money_in
+drawable ic_money_out
+id btContinue
+id etAccountHolderId
+id ivIcon
+id rvBankStatement
+id srlBankStatement
+id tilAccountHolderId
+id tvDatetime
+id tvDescription
+id tvValue
+id tvWelcome
+layout activity_bank_statement
+layout activity_welcome
+layout bank_statement_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string txt_account_holder_id
+string txt_continue
+string txt_welcome
+style AppTheme

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#B71C1C</color>
+    <color name="primary_100">#ffcdd2</color>
+    <color name="primary_200">#ef9a9a</color>
+    <color name="primary_600">#e53935</color>
+    <color name="primary_700">#d32f2f</color>
+    <color name="primary_900">#b71c1c</color>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_half_default">8dp</dimen>
+    <string name="app_name" translatable="false">BANKLINE</string>
+    <string name="txt_account_holder_id">Account Holder ID</string>
+    <string name="txt_continue">Continue</string>
+    <string name="txt_welcome">Hello, welcome to Santander Dev Week! Enter an Account Holder ID to view your bank statement:</string>
+    <style name="AppTheme" parent="Theme.Material3.Light">
+        
+        <item name="colorPrimary">@color/primary_600</item>
+        <item name="colorPrimaryContainer">@color/primary_100</item>
+        <item name="colorOnPrimaryContainer">@color/primary_900</item>
+        <item name="colorPrimaryInverse">@color/primary_200</item>
+    </style>
+</resources>
