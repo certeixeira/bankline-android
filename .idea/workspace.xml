@@ -22,6 +22,7 @@
     </projectState>
   </component>
   <component name="ProjectId" id="28kwziX9qYUN1CTOKza0d3jsUHy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -104,5 +105,8 @@
       <updated>1651774156293</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

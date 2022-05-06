@@ -3,10 +3,10 @@
     <!-- https://m3.material.io/libraries/mdc-android/getting-started -->
     <style name="AppTheme" parent="Theme.Material3.Light">
         <!-- https://m3.material.io/libraries/mdc-android/color-theming -->
-        <item name="colorPrimary">@color/primary_600</item>
-        <item name="colorPrimaryContainer">@color/primary_100</item>
-        <item name="colorOnPrimaryContainer">@color/primary_900</item>
-        <item name="colorPrimaryInverse">@color/primary_200</item>
+        <item name="colorPrimary">@color/md_theme_dark_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_dark_primary</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_dark_primaryContainer</item>
+        <item name="colorPrimaryInverse">@color/md_theme_dark_onPrimaryContainer</item>
     </style>
     <!-- Interesting alternative to Material 3: https://material-foundation.github.io/material-theme-builder -->
 </resources>
